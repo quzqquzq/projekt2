@@ -4,4 +4,4 @@
 * Go to the root directory
 * ./start.sh
 
-Tested on Ubuntu fresh 23.10 Ubuntu installation.
+Tested on fresh 23.10 Ubuntu installation.
